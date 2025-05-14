@@ -15,18 +15,9 @@ The main goal of this project is to demonstrate front-end development skills in:
 It is also a learning milestone in mastering real-world website layout techniques without relying on frameworks or JavaScript.
 
 
-### 📌 Key Sections
-
-1. **Hero Section** – Eye-catching introduction with a call-to-action (CTA) button.
-2. **Menu Section** – Showcases food items with images, prices, and hover effects.
-3. **Why Choose Us** – Highlights the store's unique selling points with icons.
-4. **Testimonials** – Displays customer feedback to build credibility.
-5. **Frequently Asked Questions (FAQs)** – Improves user experience with helpful answers.
-6. **Contact/Footer Section** – Includes contact details and social media icons.
-
 ### 🎨 Design Philosophy
 
-* **User-Centered:** Easy to navigate and optimized for mobile and desktop users.
+* **User-Centred:** Easy to navigate and optimised for mobile and desktop users.
 * **Minimalist:** Clean layout with ample spacing for a clutter-free experience.
 * **Accessible:** Uses semantic tags for better SEO and accessibility.
 
@@ -35,6 +26,17 @@ It is also a learning milestone in mastering real-world website layout technique
 * **HTML5** – for semantic structure
 * **CSS3** – for styling and layout (including Flexbox)
 * **Ionicons** – for lightweight, responsive icons
+  
+## 📌 Features
 
+-  Responsive Design (Mobile & Desktop Friendly)
+-  Clean and Modern UI
+-  Hero Section with Call-To-Action
+-  Menu Section with Product Cards
+-  Testimonials & FAQs Section
+-  Social Media Integration (Icons via Ionicons)
+-  Smooth Hover Effects and Transitions
+
+This project is open-source and available under the MIT License.
 
 
